@@ -1,0 +1,8 @@
+[bn-seeker]: family says: 'O positive blood chahiye Dilsukhnagar urgent'
+[bn-matcher]: ranked donors (compatible, past cooldown, nearest first): ['donor-1', 'donor-5', 'donor-2']
+[bn-facility-a]: asking donor-1 (one at a time)
+[bn-facility-a]: asking donor-2 (one at a time)
+[bn-seeker]: RESULT ok=True: donor-2 accepted, donate at Facility A
+[bn-seeker]:   donor-1: declined, moving to next
+[bn-seeker]:   donor-5: skipped (belongs to Facility B)
+[bn-seeker]:   donor-2: accepted
